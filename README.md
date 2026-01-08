@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hey there, I'm Mustafa!
+Programmer in 1st year of computer science. Learning my first steps in programming, applications, and some small projects.
 
-<!--
-**iMustafashraf/iMustafashraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in crafting scalable, impactful solutions—from quirky side projects to industry-changing platforms. My work blends engineering leadership with a passion for web architecture and developer experience, turning complex challenges into opportunities.
+
+🔭 Leading teams on transformative projects to reshape industries.
+
+🌱 Continuously learning and empowering others through mentorship and collaboration.
+
+🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
