@@ -16,7 +16,8 @@ I'm taking my first steps into the world of programming, exploring algorithms, a
 ---
 
 ## 📊 My Codeforces Progress
-[!["Codeforces Stats"](https://codeforces-readme-stats.vercel.app/api?username=imustafaa&theme=dark)](https://codeforces.com/profile/imustafaa)
+
+<img src="https://codeforces-readme-stats.vercel.app/api?username=imustafaa&theme=dark&show_icons=true" alt="Codeforces Stats" />
 
 ---
 
