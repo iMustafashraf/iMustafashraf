@@ -1,17 +1,23 @@
 # 👋 Hey there, I'm Mustafa!
-Programmer in 1st year of computer science. Learning my first steps in programming, applications, and some small projects.
+**Computer Science Student | 1st Year** I'm taking my first steps into the world of programming, exploring algorithms, and building small-scale projects to solve real-world problems.
 
-![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
+![C++](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=c%2B%2B&color=00599C)
 
+I am currently focused on building a solid foundation in computer science, blending academic learning with hands-on practice in Problem Solving.
 
-I specialize in crafting scalable, impactful solutions—from quirky side projects to industry-changing platforms. My work blends engineering leadership with a passion for web architecture and developer experience, turning complex challenges into opportunities.
+- 🔭 **Current Focus:** Master the basics of C++ and Competitive Programming.
+- 🌱 **Learning Journey:** Currently working through the Assiut University Training (ICPC) sheets.
+- 🚀 **Goal:** Turning complex logic challenges into clean, efficient code.
 
-🔭 Leading teams on transformative projects to reshape industries.
+---
 
-🌱 Continuously learning and empowering others through mentorship and collaboration.
+## 📊 My Codeforces Progress
 
-🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api?username=imustafaa&theme=dark)
 
-## My Codeforces progress
+---
 
-![Codeforces Calendar](https://codeforces-readme-stats.vercel.app/api/calendar?username=imustafaa)
+### 🛠️ Languages and Tools
+- **Language:** C++
+- **Focus:** Problem Solving (ICPC)
+- **Environment:** VS Code / CodeBlocks
