@@ -14,4 +14,4 @@ I specialize in crafting scalable, impactful solutions—from quirky side projec
 
 ## My Codeforces progress
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api?username=imustafaa&theme=dark)
+![Codeforces Calendar](https://codeforces-readme-stats.vercel.app/api/calendar?username=imustafaa)
