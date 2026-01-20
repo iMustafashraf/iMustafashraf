@@ -11,7 +11,7 @@ I'm taking my first steps into the world of programming, exploring algorithms, a
 ## 📊 My Competitive Programming Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=اكتب_يوزر_الجيتهاب_بتاعك&show_icons=true&theme=dark" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=imustafaa&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ### 🏆 Codeforces Activity
