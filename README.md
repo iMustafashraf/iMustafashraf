@@ -11,3 +11,7 @@ I specialize in crafting scalable, impactful solutions—from quirky side projec
 🌱 Continuously learning and empowering others through mentorship and collaboration.
 
 🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
+
+## My Codeforces progress
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api?username=imustafaa&theme=dark)
